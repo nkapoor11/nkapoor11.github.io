@@ -35,7 +35,7 @@ This is a short paragraph about myself. I'm a researcher in [Your Field], and I 
 
 <div style="font-size: 16px; font-weight: bold; color: black;">Stress Tests, Financial Markets, and Bank Runs in the Modern Era: An Empirical and Theoretical Analysis (Senior Thesis)</div>
 <span style="margin-right: 15px;"><a href="assets/pdf/senior-thesis.pdf">PDF</a></span>
-<span><a href="assets/pdf/cspc-fellows-review">Section 1 Published in CSPC Fellows Review</a></span>
+<span><a href="assets/pdf/cspc-fellows-review.pdf">Section 1 Published in CSPC Fellows Review</a></span>
 
 
 
