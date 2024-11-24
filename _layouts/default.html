@@ -21,6 +21,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <!-- Add Email and CV Links -->
+        <p>
+          <a href="mailto:your-email@example.com">Email Me</a> |
+          <a href="{{ '/assets/pdf/senior-thesis.pdf' | relative_url }}" target="_blank">Download My CV</a>
+        </p>
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
