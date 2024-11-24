@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-#### About Me
+### About Me
 This is a short paragraph about myself. I'm a researcher in [Your Field], and I enjoy working on a variety of exciting topics.
 * * *
 
