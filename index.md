@@ -19,7 +19,7 @@ This is a short paragraph about myself. I'm a researcher in [Your Field], and I 
 ## Work in Progress
 
 <div style="font-size: 16px; font-weight: bold; color: black;">Title of the Paper</div>
-<div style="font-size: 14px; font-weight: normal; color: black;">with Author 1</div>
+<div style="font-size: 14px; font-weight: normal; color: black; margin-bottom: 20px;">with Author 1</div>
 
 * * * 
 
