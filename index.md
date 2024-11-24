@@ -12,9 +12,10 @@ This is a short paragraph about myself. I'm a researcher in [Your Field], and I 
 - **Paper Title 2**: A brief description of the paper.
 
 {% raw %}
-<div style="font-size: 20px; font-weight: bold;">Title of the Paper</div>
-<div style="font-size: 14px; font-weight: normal;">Author 1, Author 2, Author 3</div>
+<div style="font-size: 20px; font-weight: bold; color: black;">Title of the Paper</div>
+<div style="font-size: 14px; font-weight: normal; color: black;">Author 1, Author 2, Author 3</div>
 {% endraw %}
+
 
 
 * * * 
