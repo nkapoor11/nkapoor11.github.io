@@ -27,3 +27,10 @@ This is a short paragraph about myself. I'm a researcher in [Your Field], and I 
 
 [Section 1 - Published in CSPC Fellows Review](https://static1.squarespace.com/static/5cb0a1b1d86cc932778ab82b/t/66ba5e32e568f57ae9af55bb/1723489847281/2023-2024+Fellows+Review+FINAL.pdf)
 
+## My Links
+
+<span style="margin-right: 15px;"><a href="https://static1.squarespace.com/static/5cb0a1b1d86cc932778ab82b/t/66ba5e32e568f57ae9af55bb/1723489847281/2023-2024+Fellows+Review+FINAL.pdf">Section 1</a></span>
+<span style="margin-right: 15px;"><a href="senior-thesis.pdf">School Website</a></span>
+<span><a href="senior-thesis.pdf">CV</a></span>
+
+
