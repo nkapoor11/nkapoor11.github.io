@@ -16,3 +16,7 @@ This is a short paragraph about myself. I'm a researcher in [Your Field], and I 
 ## Works in Progress
 - **Project 1**: Description of your ongoing work or project.
 - **Project 2**: Description of another project you're working on.
+
+* * * 
+
+## Other
